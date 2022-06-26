@@ -22,7 +22,7 @@ React, React-Router, React-Transition-Group, React-Infinite-Scroll-Component, Re
 
 -Animated like and dislike buttons
 
--Site designed with possible lost of internet connection in mind
+-Site designed with failed API calls in mind
 
 -Hidden API keys from the front end source code
 
