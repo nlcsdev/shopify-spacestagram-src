@@ -1,9 +1,9 @@
 const axios = require('axios');
 
 // let apiURL = "https://api.nasa.gov/planetary/apod";
-//let apiURL = "http://localhost:3100/nasa";
-let apiURL = "https://cliff-website.rcp.r9n.co/nasa";
-let key = "RmDMBRSz189gwOUaJUp2pWFiTtf5fVNt1L7Y2bE9";
+// let apiURL = "http://localhost:3100/nasa";
+let apiURL = "Depreciated";
+let key = "Depreciated";
 
 var jsonh = require("./jsonh");
 
